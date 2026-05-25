@@ -5,9 +5,9 @@ Lampung, Indonesia | +62-858-3446-5676 | elsaelisayohana05@gmail.com | [LinkedIn
 ## PROFESSIONAL SUMMARY
 Fresh Graduate in Informatics Engineering (GPA 3.64/4.00, Cum Laude). Specialized in AI Engineering, ML, NLP, and Computer Vision. Experienced in PyTorch, Hugging Face, and RAG systems through industry internship at PT Pertamina Hulu Rokan.
 
-## CORE SKILLS
-- **AI/ML:** Deep Learning, NLP, Computer Vision, LLMs, RAG, Fine-Tuning, CLIP, ELECTRA, IndoBERT.
-- **Tools:** PyTorch, Scikit-learn, Hugging Face, OpenCV, LangChain, W&B, ChromaDB, SQL, Git, Linux.
+## EDUCATION
+### B.Eng. in Informatics Engineering - Institut Teknologi Sumatera
+2022 - 2026 | GPA: 3.64/4.00 (Cum Laude)
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -36,9 +36,9 @@ Lampung, Indonesia | Aug 2023 - Present
 - **Head of Entrepreneurship — Sobat Bumi Lampung** (Oct 2025 – Present): Leading green technology entrepreneurial projects.
 - **Secretary / Staff — KM ITERA & HMIF ITERA** (2024): Managed IT Ministry workflows and digital branding strategies.
 
-## EDUCATION
-### B.Eng. in Informatics Engineering - Institut Teknologi Sumatera
-2022 - 2026 | GPA: 3.64/4.00 (Cum Laude)
+## CORE SKILLS
+- **AI/ML:** Deep Learning, NLP, Computer Vision, LLMs, RAG, Fine-Tuning, CLIP, ELECTRA, IndoBERT.
+- **Tools:** PyTorch, Scikit-learn, Hugging Face, OpenCV, LangChain, W&B, ChromaDB, SQL, Git, Linux.
 
 ## CERTIFICATIONS & AWARDS
 - **AWS re/Start Cloud Computing** (2025) | **Pertamina Sobat Bumi Scholarship** (2024)
