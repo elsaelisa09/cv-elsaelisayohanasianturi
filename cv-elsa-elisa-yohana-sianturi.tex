@@ -1,7 +1,7 @@
 \documentclass[10pt,a4paper]{extarticle}
 
 \usepackage{anyfontsize}
-\fontsize{10.5pt}{12pt}\selectfont
+\fontsize{10pt}{11pt}\selectfont
 \usepackage[a4paper,margin=1.8cm]{geometry}
 \usepackage[scaled]{helvet}
 \usepackage[T1]{fontenc}
@@ -20,14 +20,15 @@
 }
 
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.4em}
-\setlist[itemize]{leftmargin=1.4em,itemsep=0.15em,topsep=0.15em,parsep=0.15em}
+\setlength{\parskip}{0.2em}
+\setlist[itemize]{leftmargin=1.3em,itemsep=0.15em,topsep=0.15em,parsep=0.15em}
 \setlist[enumerate]{leftmargin=1.4em,itemsep=0.15em,topsep=0.15em,parsep=0.15em}
 
 \titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\vspace{-0.45em}\rule{\linewidth}{0.8pt}]
 \titlespacing*{\section}{0pt}{1.2em}{0.25em}
 
 \newcommand{\cvname}[1]{\begin{center}\LARGE\bfseries #1\end{center}}
+\newcommand{\cvrole}[1]{\begin{center}\large #1\end{center}}
 \newcommand{\cvcontact}[1]{\begin{center}\small #1\end{center}}
 \newcommand{\resumeSubheading}[4]{%
   \textbf{#1} \hfill #2 \\
@@ -41,12 +42,14 @@
 % ==========================================
 % PENGATURAN BAHASA (Ganti 'en' ke 'id')
 % ==========================================
-\newcommand{\lang}{en} 
+\newcommand{\lang}{punyaelsa} 
 
 \begin{document}
+\pagestyle{empty}
 
 \cvname{Elsa Elisa Yohana Sianturi}
-\cvcontact{Bandar Lampung, Indonesia $|$ +62-858-3446-5676 $|$ \href{mailto:elsaelisayohana05@gmail.com}{elsaelisayohana05@gmail.com} $|$ LinkedIn: \href{www.linkedin.com/in/elsaelisayohanasianturi}{linkedin.com/in/elsaelisayohanasianturi} $|$ GitHub: \href{https://github.com/elsaelisa09}{github.com/elsaelisa09} $|$ Portfolio: \href{https://elsaelisayohanasianturi.vercel.app/}{elsaelisayohanasianturi.vercel.app}}
+% \cvrole{AI Engineer $|$ Informatics Engineering Graduate}
+\cvcontact{Lampung, Indonesia $|$ +62-858-3446-5676 $|$ \href{mailto:elsaelisayohana05@gmail.com}{elsaelisayohana05@gmail.com} $|$ \href{https://linkedin.com/in/elsaelisayohanasianturi}{LinkedIn} $|$ \href{https://github.com/elsaelisa09}{GitHub} $|$ \href{https://elsaelisayohanasianturi.vercel.app/}{Portfolio}}
 
 \vspace{0.4cm}
 

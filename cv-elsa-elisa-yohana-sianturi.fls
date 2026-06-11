@@ -11,7 +11,6 @@ INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\base\exscale.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\base\exscale.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\anyfontsize\anyfontsize.sty
-INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
@@ -27,7 +26,7 @@ INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\helvet.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
@@ -110,7 +109,6 @@ INPUT .\cv-elsa-elisa-yohana-sianturi.aux
 INPUT .\cv-elsa-elisa-yohana-sianturi.aux
 INPUT cv-elsa-elisa-yohana-sianturi.aux
 OUTPUT cv-elsa-elisa-yohana-sianturi.aux
-INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT .\cv-elsa-elisa-yohana-sianturi.out
 INPUT .\cv-elsa-elisa-yohana-sianturi.out
@@ -137,11 +135,11 @@ INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT .\language\en.tex
-INPUT .\language\en.tex
-INPUT .\language\en.tex
-INPUT .\language\en.tex
-INPUT language\en.tex
+INPUT .\language\punyaelsa.tex
+INPUT .\language\punyaelsa.tex
+INPUT .\language\punyaelsa.tex
+INPUT .\language\punyaelsa.tex
+INPUT language\punyaelsa.tex
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT C:\Users\elsae\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
