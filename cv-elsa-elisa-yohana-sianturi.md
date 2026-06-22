@@ -46,5 +46,6 @@ Lampung, Indonesia | Aug 2023 - Present
 - **2nd Winner UI/UX Competition** Point Project 2.0 - HMIF ITERA (2024)
 
 ## ADDITIONAL INFORMATION
-- **Languages:** Indonesian (Native), English (Professional Working)
+- **Indonesian:** Native — strong reading, writing, and contextual evaluation
+- **English:** Professional Working Proficiency — able to write structured AI evaluation rationales
 - **Publications:** Digitalization of Posyandu (PADIMAS, 2025)
