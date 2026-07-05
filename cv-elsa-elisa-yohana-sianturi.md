@@ -1,6 +1,6 @@
 # ELSA ELISA YOHANA SIANTURI
 
-Lampung, Indonesia | +62-858-3446-5676 | elsaelisayohana05@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourhandle)
+Lampung, Indonesia | +62-858-3446-5676 | elsaelisayohana05@gmail.com | LinkedIn: linkedin.com/in/elsaelisayohanasianturi | GitHub: github.com/elsaelisa09 | Portfolio: elsaelisayohanasianturi.vercel.app
 
 ## PROFESSIONAL SUMMARY
 Fresh Graduate in Informatics Engineering (GPA 3.64/4.00, Cum Laude). Specialized in AI Engineering, ML, NLP, and Computer Vision. Experienced in PyTorch, Hugging Face, and RAG systems through industry internship at PT Pertamina Hulu Rokan.

@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.5.25)  22 JUN 2026 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.6.27)  5 JUL 2026 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **c:/Users/elsae/Downloads/CV/cv-elsa-elisa-yohana-sianturi.tex
 (c:/Users/elsae/Downloads/CV/cv-elsa-elisa-yohana-sianturi.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-04-28>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-05-26>
 (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 ) (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
-Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
+Package: exscale 2025/12/24 v2.1j Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
@@ -36,7 +36,7 @@ Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 ) (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
  (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 ) (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -309,11 +309,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package hyperref Info: Link coloring ON on input line 47.
-(cv-elsa-elisa-yohana-sianturi.out) (cv-elsa-elisa-yohana-sianturi.out)
 \@outlinefile=\write3
 \openout3 = `cv-elsa-elisa-yohana-sianturi.out'.
 
- (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count304
 \scratchdimen=\dimen171
@@ -332,14 +331,14 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 16.41594pt on input line 50.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 52.
+(Font)              scaled to size 8.54997pt on input line 55.
  (C:\Users\elsae\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 55.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 52.
+(Font)              <5> on input line 55.
  (language/punyaelsa.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 3.
@@ -362,12 +361,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 35.
+(Font)              scaled to size 7.59998pt on input line 36.
  [1
 
 {C:/Users/elsae/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+language/punyaelsa.tex:99: Misplaced alignment tab character &.
+l.99 ..., Data Annotation, Data Quality Review, W&
+                                                  B
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
 Overfull \hbox (4.99557pt too wide) in paragraph at lines 114--115
 []\T1/phv/b/n/10 (-20) 2nd Win-ner of UI/UX Com-pe-ti-tion Point Project 2.0 \T1/phv/m/n/10 (-20) - HMIF IT-ERA (2024) | \T1/phv/m/sl/10 (-20) Cre-den-tial ID: 313/525/SRT/HMIF/XII/2024 
  []
@@ -376,22 +386,29 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 121.
 ) [2] (cv-elsa-elisa-yohana-sianturi.aux)
  ***********
-LaTeX2e <2025-11-01>
-L3 programming layer <2026-04-28>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-05-26>
  ***********
-Package rerunfilecheck Info: File `cv-elsa-elisa-yohana-sianturi.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package rerunfilecheck Warning: File `cv-elsa-elisa-yohana-sianturi.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv-elsa-elisa-yohana-sianturi.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12060 strings out of 467683
- 193632 string characters out of 5414721
- 661014 words of memory out of 5000000
- 40893 multiletter control sequences out of 15000+600000
- 660836 words of font info for 129 fonts, out of 8000000 for 9000
+ 12062 strings out of 467509
+ 193455 string characters out of 5408780
+ 664951 words of memory out of 5000000
+ 41059 multiletter control sequences out of 15000+600000
+ 661232 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1054b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,5n,79p,1054b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/elsae/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv-elsa-elisa-yohana-sianturi.pdf (2 pages, 63989 bytes).
+Output written on cv-elsa-elisa-yohana-sianturi.pdf (2 pages, 65667 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
