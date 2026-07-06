@@ -13,8 +13,9 @@ Fresh Graduate in Informatics Engineering (GPA 3.64/4.00, Cum Laude). Specialize
 
 ### AI Engineer Intern — PT Pertamina Hulu Rokan
 Pekanbaru, Indonesia | Jun 2025 – Jul 2025
-- Developed a Retrieval-Augmented Generation (RAG) system using PyTorch to automate technical document extraction.
-- Optimized semantic search pipelines, reducing information retrieval time for engineering teams.
+- Spearheaded the evaluation of Retrieval-Augmented Generation (RAG) pipelines for enterprise document management, identifying and mitigating AI hallucination risks to ensure data reliability.
+- Facilitated cross-functional discussions between technical mentors and business stakeholders to align system capabilities with user requirements, successfully delivering alternative solutions that met operational needs.
+- Optimized document QA workflows, achieving a 73.33% accuracy rate while maintaining clear communication regarding system limitations and risk mitigation strategies to upper management.
 
 ### Teaching Assistant — UPA TIK ITERA
 Lampung, Indonesia | Aug 2023 - Present
